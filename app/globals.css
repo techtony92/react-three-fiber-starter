@@ -105,3 +105,24 @@ a {
     color-scheme: dark;
   }
 }
+
+
+
+#main{
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+#header{
+  height:40vh;
+  width:100%;
+  background:rgb(242, 244, 244);
+}
+
+
+#scene{
+  width:100%;
+  height:100vh;
+}
